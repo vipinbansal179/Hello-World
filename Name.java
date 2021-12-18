@@ -4,7 +4,7 @@ import java.util.Scanner;
             Scanner input = new Scanner(System.in);
             System.out.print("Enter ur Name: ");
             String a = input.nextLine();
-            System.out.print("Ur Name = " + a);
+            System.out.print("Name = " + a);
             input.close();
 
         }
